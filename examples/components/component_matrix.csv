@@ -1,0 +1,9 @@
+trait,S. nigrum,C. annuum,L. chinense
+component_A_present,1,1,0
+component_B_present,0,1,1
+component_C_present,1,0,1
+component_A_zone_1,1,1,0
+component_A_zone_2,0,1,0
+component_B_zone_1,0,1,1
+component_C_zone_1,1,0,1
+

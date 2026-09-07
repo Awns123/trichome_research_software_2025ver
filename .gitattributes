@@ -1,0 +1,2 @@
+# Preserve the six archived research scripts byte-for-byte.
+src/*.py -text
